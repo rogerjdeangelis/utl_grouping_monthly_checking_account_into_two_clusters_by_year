@@ -1,0 +1,2 @@
+# utl_grouping_monthly_checking_account_into_two_clusters_by_year
+Grouping monthly checking account into clusters by year. Keywords: sas sql join merge big data analytics macros oracle teradata mysql sas communities stackoverflow statistics artificial inteligence AI Python R Java Javascript WPS Matlab SPSS Scala Perl C C# Excel MS Access JSON graphics maps NLP natural language processing machine learning igraph DOSUBL DOW loop stackoverflow SAS community.
